@@ -1,4 +1,4 @@
-# Invest-Now-DIO-
+# Invest-Now
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 Este projeto tem como objetivo criar uma ferramenta em **Microsoft Excel** para simular investimentos em **Fundos Imobiliários**, permitindo que o usuário entenda a evolução do seu patrimônio ao longo do tempo com base em aportes mensais, taxa de rendimento e período de investimento.
